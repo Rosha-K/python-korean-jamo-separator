@@ -11,7 +11,9 @@ https://github.com/neotune/python-korean-handler/
 
 한글이 아닌 영문, 특수문자 사용시 작동하지 않습니다.
 또한, 초성, 중성이 하나라도 없다면 작동하지 않습니다.
+
 ex)ㅏ ㅑㅑ
+
 ex)ㅎㅎㅎㅎ ㅏㅏㅏ
 
 
