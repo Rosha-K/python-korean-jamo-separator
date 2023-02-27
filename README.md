@@ -26,7 +26,7 @@ output(xlsx) : ㅌ	ㅓ	ㅣ	ㅅ	ㅡ	ㅌ	ㅡ
 #### RUN
 
 ```console
-python split_korean_alphabet.py
+korean_jamo_separator.py
 ```
 
 ## Licence
