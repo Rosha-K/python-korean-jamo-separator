@@ -35,7 +35,7 @@ output(xlsx) : ㅌ	ㅓ	ㅣ	ㅅ	ㅡ	ㅌ	ㅡ
 #### RUN
 
 ```console
-korean_jamo_separator.py
+python korean_jamo_separator.py
 ```
 
 ## Licence
